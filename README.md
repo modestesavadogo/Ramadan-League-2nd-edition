@@ -68,13 +68,6 @@ The competition emphasizes deep understanding over quick results. Each solution 
 - Explored multiple classification strategies (TF-IDF + classical ML, fine-tuned transformers)
 - Evaluated with macro F1-score across all three classes
 
-**Key Results:**
-
-| Model | Accuracy | Macro F1 |
-|-------|----------|----------|
-| *(e.g. Logistic Regression + TF-IDF)* | *XX%* | *X.XX* |
-| *(e.g. Fine-tuned BERT)* | *XX%* | *X.XX* |
-
 **Deliverables:** `solution.ipynb` *(+ optional `train.py`)*
 
 ---
@@ -89,7 +82,7 @@ The competition emphasizes deep understanding over quick results. Each solution 
 |---|-----------------|-------------|
 | 1 | *(e.g. Sigmoid overflow in forward pass)* | *(e.g. Numerically stable sigmoid)* |
 | 2 | *(e.g. Gradient sign error in backprop)* | *(e.g. Corrected gradient formula)* |
-| 3 | *(add more as needed)* | — |
+
 
 **Deliverables:** `problem.py` (fixed) + `notes.md`
 
@@ -103,13 +96,6 @@ The competition emphasizes deep understanding over quick results. Each solution 
 - Extracted temporal features (hour, day of week, rush hour flags)
 - Engineered geospatial features (Haversine distance, bearing, pickup/dropoff clusters)
 - Trained and compared regression models with cross-validation
-
-**Key Results:**
-
-| Model | RMSE | R² |
-|-------|------|----|
-| *(e.g. Random Forest)* | *XXX s* | *X.XX* |
-| *(e.g. XGBoost)* | *XXX s* | *X.XX* |
 
 **Deliverables:** `solution.ipynb` *(+ optional `train.py`, `inference.py`)*
 
