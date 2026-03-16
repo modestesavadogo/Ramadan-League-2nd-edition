@@ -18,7 +18,7 @@
 | Name | GitHub |
 |------|--------|
 | Modeste Savadogo | [@modestesavadogo](https://github.com/modestesavadogo) |
-| Diallo Mamadou | *(add GitHub handle)* |
+| Diallo Mamadou | https://github.com/MRTDS224 |
 
 ---
 
