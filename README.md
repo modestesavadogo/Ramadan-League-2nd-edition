@@ -76,14 +76,6 @@ The competition emphasizes deep understanding over quick results. Each solution 
 
 > **Task:** Debug and correct a broken from-scratch logistic regression implementation, then verify expected model behavior.
 
-**Bugs Found & Fixed:**
-
-| # | Bug Description | Fix Applied |
-|---|-----------------|-------------|
-| 1 | *(e.g. Sigmoid overflow in forward pass)* | *(e.g. Numerically stable sigmoid)* |
-| 2 | *(e.g. Gradient sign error in backprop)* | *(e.g. Corrected gradient formula)* |
-
-
 **Deliverables:** `problem.py` (fixed) + `notes.md`
 
 ---
